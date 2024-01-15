@@ -29,7 +29,7 @@ It's used to sign the JWT tokens. I used a random hex string here running this c
         email: 'USER-EMAIL',
         password: 'USER-PASSWORD',
     }
-```
+	```
 
 ### POST /auth/logout (Logout)
 
