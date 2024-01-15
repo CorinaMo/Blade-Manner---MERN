@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'BLADRMF_';
+  src: url('/public/blade_runner_movie_font/BLADRMF_.ttf') format('truetype');
+}
+
+:root {
+  --conic-gradient-pattern:
+  conic-gradient(at 10% 50%, #0000 75%, #148dde 0),
+    conic-gradient(at 10% 50%, #0000 75%, #148dde 0) calc(1 * 100px) calc(3 * 100px),
+    conic-gradient(at 10% 50%, #0000 75%, #148dde 0) calc(2 * 100px) calc(1 * 100px),
+    conic-gradient(at 10% 50%, #0000 75%, #148dde 0) calc(3 * 100px) calc(4 * 100px),
+    conic-gradient(at 10% 50%, #0000 75%, #148dde 0) calc(4 * 100px) calc(2 * 100px),
+    conic-gradient(at 50% 10%, #0000 75%, #148dde 0) 0 calc(4 * 100px),
+    conic-gradient(at 50% 10%, #0000 75%, #148dde 0) calc(1 * 100px) calc(2 * 100px),
+    conic-gradient(at 50% 10%, #0000 75%, #148dde 0) calc(2 * 100px) 0,
+    conic-gradient(at 50% 10%, #0000 75%, #148dde 0) calc(3 * 100px) calc(3 * 100px),
+    conic-gradient(at 50% 10%, #0000 75%, #148dde 0) calc(4 * 100px) calc(1 * 100px),
+    #ffffff;
+
+}
